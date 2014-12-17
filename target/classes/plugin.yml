@@ -1,0 +1,8 @@
+name: ItemBugTest
+author: pascoej@murri.ca
+version: 1.0
+main: ca.pascoej.itembug.ItemBug
+commands:
+  testbug:
+    description: tests for bug
+    usage: /testbug
